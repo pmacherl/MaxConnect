@@ -1,10 +1,8 @@
-//PrithviMacherla
+
 /*
 
 Prithvi Macherla
 
-
-//kjadakhdaksljklfasdfas
 */
 import java.util.Scanner;
 
