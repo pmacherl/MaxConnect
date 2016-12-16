@@ -17,7 +17,10 @@ String player,comp;
 
 
 
-void empty(){} 
+void empty(){ System.out.println(" this is empty one")}; 
+
+
+
 void startGame() // This method is called from the main method. This triggers the game. 
 {
 
