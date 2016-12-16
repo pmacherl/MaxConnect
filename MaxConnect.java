@@ -17,7 +17,7 @@ String player,comp;
 
 
 
- 
+void empty(){} 
 void startGame() // This method is called from the main method. This triggers the game. 
 {
 
